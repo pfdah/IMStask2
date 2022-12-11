@@ -6,3 +6,4 @@ and hit the following command.
 ```bash
   dotnet run
 ```
+This version contains the Navigation property in Models.
